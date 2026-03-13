@@ -1,0 +1,14 @@
+C:\Users\hero1\source\repos\Examen 2\bin\Debug\net10.0\Examen 2.exe
+C:\Users\hero1\source\repos\Examen 2\bin\Debug\net10.0\Examen 2.deps.json
+C:\Users\hero1\source\repos\Examen 2\bin\Debug\net10.0\Examen 2.runtimeconfig.json
+C:\Users\hero1\source\repos\Examen 2\bin\Debug\net10.0\Examen 2.dll
+C:\Users\hero1\source\repos\Examen 2\bin\Debug\net10.0\Examen 2.pdb
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\Examen 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\Examen 2.AssemblyInfoInputs.cache
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\Examen 2.AssemblyInfo.cs
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\Examen 2.csproj.CoreCompileInputs.cache
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\Examen 2.dll
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\refint\Examen 2.dll
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\Examen 2.pdb
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\Examen 2.genruntimeconfig.cache
+C:\Users\hero1\source\repos\Examen 2\obj\Debug\net10.0\ref\Examen 2.dll
